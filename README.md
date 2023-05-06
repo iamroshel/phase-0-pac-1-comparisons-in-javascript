@@ -1,4 +1,4 @@
-# Comparisons in JavaScript
+# Comparisons in JavaScript c
 
 ## Learning Goals
 
